@@ -490,3 +490,4 @@ if __name__ == "__main__":
 # Add rating endpoints
 # Dietary restrictions filtering
 # Implement vegan/vegetarian filters
+# Optimize recommendation algorithm
