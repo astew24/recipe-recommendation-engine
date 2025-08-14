@@ -489,3 +489,4 @@ if __name__ == "__main__":
 # User rating system
 # Add rating endpoints
 # Dietary restrictions filtering
+# Implement vegan/vegetarian filters
