@@ -493,3 +493,4 @@ if __name__ == "__main__":
 # Optimize recommendation algorithm
 # Add caching layer
 # Add user rating endpoints
+# Add rating aggregation logic
