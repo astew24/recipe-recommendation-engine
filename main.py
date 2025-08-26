@@ -496,3 +496,4 @@ if __name__ == "__main__":
 # Add rating aggregation logic
 # Add dietary restriction filtering
 # Add recipe difficulty classification
+# Implement basic content-based filtering
