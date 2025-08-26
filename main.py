@@ -498,3 +498,4 @@ if __name__ == "__main__":
 # Add recipe difficulty classification
 # Implement basic content-based filtering
 # Implement basic content-based filtering
+# Add TF-IDF vectorization for ingredients
