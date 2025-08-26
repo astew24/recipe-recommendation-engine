@@ -494,3 +494,4 @@ if __name__ == "__main__":
 # Add caching layer
 # Add user rating endpoints
 # Add rating aggregation logic
+# Add dietary restriction filtering
