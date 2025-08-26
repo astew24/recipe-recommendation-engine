@@ -492,3 +492,4 @@ if __name__ == "__main__":
 # Implement vegan/vegetarian filters
 # Optimize recommendation algorithm
 # Add caching layer
+# Add user rating endpoints
